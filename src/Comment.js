@@ -6,7 +6,7 @@ import React from 'react';
   
     render() {
       return (
-        <div className="Comment">
+        <div className="comment">
         {this.props.commentText}
       </div> 
       )
